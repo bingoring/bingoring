@@ -144,28 +144,9 @@ Hello, this is Yeonwoong Yeom, a backend developer with 3 years of experience. B
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
-  <a href="https://github.com/bingoring/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=Lorem-Farsi&theme=default" />
+  <a href="https://github.com/bingoring/DevThink_Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=DevThink_Server&theme=default" />
 </a>
   <br/>
-  <br/>
- 
-   <a href="https://github.com/bingoring/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/bingoring/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-  <br/>
-  <br/>
- 
-  <a href="https://github.com/bingoring/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=personal-site&theme=default" />
- </a>
  
 </details>
