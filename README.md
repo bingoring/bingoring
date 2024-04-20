@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&color=ff6c37">
   <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624">
   <br>
-  <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6">
-  <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
-  <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
-  <img src="https://img.shields.io/badge/Style-Tailwind CSS-informational?style=flat&logo=TailwindCSS&color=10abc5">
-  <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150" width="220">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150&reversal=true" width="220">
   <br>
