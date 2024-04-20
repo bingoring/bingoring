@@ -47,7 +47,7 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
   <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16&reversal=true" width="395">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&lines=Backend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&lines=Backend+Developer" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14" width="381">
