@@ -60,7 +60,7 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 </p>
 
 <h3 align="center">
-I'm Backend Developer 💻
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
 </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14" width="381">
