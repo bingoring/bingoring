@@ -1,97 +1,182 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
-  <img src="https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=Nestjs&color=e60000">
-  <br>
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=f05032">
-  <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&color=ff6c37">
-  <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150" width="220">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150&reversal=true" width="220">
-  <br>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:F76014,60:FFEC02&height=5" width="105">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:F76014,60:FFEC02&height=5&reversal=true" width="105">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FFEC02&height=6" width="174">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FFEC02&height=6&reversal=true" width="174">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FCD005&height=7" width="223">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FCD005&height=7&reversal=true" width="223">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,15:F76014,45:F7B313&height=8" width="260">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,15:F76014,45:F7B313&height=8&reversal=true" width="260">
-  <br>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,20:F76014,50:F0A81D&height=10" width="311">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,20:F76014,50:F0A81D&height=10&reversal=true" width="311">
-  <br>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,50:F29B1A&height=12" width="348">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,50:F29B1A&height=12&reversal=true" width="348">
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=bingoring&color=00aaaa&label=Visitors+counter">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14" width="381">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14&reversal=true" width="381">
+<p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Yeom+Yeonwoong" alt="Typing SVG" /></p>
+<div align="justify">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/%EC%97%B0%EC%9B%85-%EC%97%BC-1597072b7/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+
+
+</div>
+<p></p>
+<p align="justify">
+Hello, this is Yeonwoong Yeom, a backend developer with 3 years of experience. By working on solution version upgrades, new product development, and SI business, I have become familiar with the fast development tempo of a startup and worked so that I would not be embarrassed to be called a back-end developer. Nodejs is my main development stack, but I am also studying Java, and my current goal is to solve problems encountered in the global SaaS service environment and incorporate my efforts into services used by people around the world.
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Yunwoong</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
-</h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16" width="395">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16&reversal=true" width="395">
-</p>
+## My favorite tools and technologies ⚙️
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&lines=Backend+Developer" alt="Typing SVG" /></a>
-</h3>
+> Tools and technologies that I have worked with and am interested in
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14" width="381">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14&reversal=true" width="381">
-</p>
-<h3 align="center">
-Node.js            ※             Nest.js
-</h3>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12" width="340">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12&reversal=true" width="340">
-</p>
-<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10" width="255">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10&reversal=true" width="255">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8" width="218">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8&reversal=true" width="218">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6" width="140">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6&reversal=true" width="140">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬-nl-🐟-nl-🐠-nl-🐡&fontSize=50&fontAlignY=35&fontAlignY=65&fontAlignY=75&fontAlignY=70&fontAlign=50&fontAlign=8&fontAlign=25&fontAlign=85&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,70:54BBC8,90:04f9e5,100:01786E00&height=1&section=footer" width="700">
-</p>
-<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=10:CF00F300,55:F70000,85:FA7600,100:FBFC07,&height=795" width="150">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70000,14:FA7600,28:FBFC07,42:13DC17,56:00D0FE,70:0270FC,84:CF00F3,100:CF00F300&height=20" width="660">
-<br>
-<br>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats-kauer3.vercel.app/api?username=bingoring&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Yunwoong's GitHub stats">
-</p>
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
-</p>
-<br>
+<table>
+  <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+      <br>Jest
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Prettier
+    
+  </tr>
+  <tr>
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="ASP.NET Core" />
+      <br>MySQL
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="dart" />
+      <br>kafka
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bingoring's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bingoring&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bingoring's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingoring&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bingoring&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=bingoringe&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/share/@bingoring/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <br/>
+  <br/>
+  <br/>
+
+  <img src="https://wakatime.com/share/@bingoring/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+</details>
+
+
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/bingoring/Lorem-Farsi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=Lorem-Farsi&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/bingoring/Happier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=Happier&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/bingoring/telegram-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=telegram-bot-template&theme=default" />
+ </a>
+
+
+   <br/>
+  <br/>
+ 
+   <a href="https://github.com/bingoring/personal-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=personal-site&theme=default" />
+ </a>
+ 
+</details>
+
+## Recent GitHub Activity ✅
+
+![Metrics](https://metrics.lecoq.io/bingoring?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bingoring&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
