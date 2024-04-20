@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
-  <img src="https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=Nest.js&color=3D883B">
+  <img src="https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=Nestjs&color=e60000">
   <br>
   <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=f05032">
   <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&color=ff6c37">
