@@ -60,7 +60,7 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 </p>
 
 <h3 align="center">
-I'm a professional Web Developer 💻
+I'm Backend Developer 💻
 </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14" width="381">
