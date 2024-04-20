@@ -1,101 +1,116 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
+  <img src="https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=262525">
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC">
+  <br>
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=f05032">
+  <img src="https://img.shields.io/badge/Tool-Vite-informational?style=flat&logo=Vite&color=646cff">
+  <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&color=ff6c37">
+  <img src="https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&color=df4f25">
+  <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624">
+  <img src="https://img.shields.io/badge/Tool-Nix-informational?style=flat&logo=NixOS&color=5275bd">
+  <img src="https://img.shields.io/badge/Tool-Neovim-informational?style=flat&logo=Neovim&color=57a143">
+  <br>
+  <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6">
+  <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
+  <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
+  <img src="https://img.shields.io/badge/Style-Tailwind CSS-informational?style=flat&logo=TailwindCSS&color=10abc5">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150&reversal=true" width="220">
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:F76014,60:FFEC02&height=5" width="105">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:F76014,60:FFEC02&height=5&reversal=true" width="105">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FFEC02&height=6" width="174">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FFEC02&height=6&reversal=true" width="174">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FCD005&height=7" width="223">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FCD005&height=7&reversal=true" width="223">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,15:F76014,45:F7B313&height=8" width="260">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,15:F76014,45:F7B313&height=8&reversal=true" width="260">
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,20:F76014,50:F0A81D&height=10" width="311">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,20:F76014,50:F0A81D&height=10&reversal=true" width="311">
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,50:F29B1A&height=12" width="348">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,50:F29B1A&height=12&reversal=true" width="348">
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14&reversal=true" width="381">
+</p>
 
-<!--
-**bingoring/bingoring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16" width="395">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16&reversal=true" width="395">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--타이틀 부분-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+<h3 align="center">
+I'm a professional Web Developer 💻
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14&reversal=true" width="381">
+</p>
+<h3 align="center">
+Node.js            ※             Nest.js
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12&reversal=true" width="340">
+</p>
+<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10" width="255">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10&reversal=true" width="255">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8" width="218">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8&reversal=true" width="218">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6" width="140">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6&reversal=true" width="140">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬-nl-🐟-nl-🐠-nl-🐡&fontSize=50&fontAlignY=35&fontAlignY=65&fontAlignY=75&fontAlignY=70&fontAlign=50&fontAlign=8&fontAlign=25&fontAlign=85&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,70:54BBC8,90:04f9e5,100:01786E00&height=1&section=footer" width="700">
+</p>
+<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=10:CF00F300,55:F70000,85:FA7600,100:FBFC07,&height=795" width="150">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70000,14:FA7600,28:FBFC07,42:13DC17,56:00D0FE,70:0270FC,84:CF00F3,100:CF00F300&height=20" width="660">
+<h2 align="left">Random quote or fun fact:</h2>
+<p>
+  <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
+  <!--STARTS_HERE_QUOTE_README-->
+<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
   </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+</p>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
+</p>
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
+</p>
+<br>
 
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
