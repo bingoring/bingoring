@@ -89,7 +89,7 @@ Node.js            ※            �
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
+  <img src="https://github-readme-stats-kauer3.vercel.app/api?username=bingoring&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
 </p>
 <br>
 <p align="center">
