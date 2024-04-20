@@ -77,19 +77,11 @@ Node.js            ※            �
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=10:CF00F300,55:F70000,85:FA7600,100:FBFC07,&height=795" width="150">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70000,14:FA7600,28:FBFC07,42:13DC17,56:00D0FE,70:0270FC,84:CF00F3,100:CF00F300&height=20" width="660">
-<h2 align="left">Random quote or fun fact:</h2>
-<p>
-  <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
-  <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-  </a>
-</p>
 <br>
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-kauer3.vercel.app/api?username=bingoring&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
+  <img src="https://github-readme-stats-kauer3.vercel.app/api?username=bingoring&count_private=true&bg_color=15,0A0C10FF,0A0C10AA,0A0C1077,0A0C1033&hide_border=true&show_icons=true&theme=radical" alt="Yunwoong's GitHub stats">
 </p>
 <br>
 <p align="center">
