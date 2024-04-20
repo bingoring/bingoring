@@ -133,12 +133,11 @@ Hello, this is Yeonwoong Yeom, a backend developer with 3 years of experience. B
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  <img src="https://wakatime.com/share/@bingoring/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018efadc-e0a8-4b9b-827d-768fcee708d6/c63adbc6-82e0-4495-9fd0-9699390f8e4f.png" /></a>
   <br/>
   <br/>
 
-  <img src="https://wakatime.com/share/@bingoring/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018efadc-e0a8-4b9b-827d-768fcee708d6/6a5f0b34-b916-44f4-ad2c-a71fb3bb956a.png" /></a>
 </details>
 
 
@@ -162,21 +161,11 @@ Hello, this is Yeonwoong Yeom, a backend developer with 3 years of experience. B
  </a>
 
 
-   <br/>
+  <br/>
   <br/>
  
-   <a href="https://github.com/bingoring/personal-site">
+  <a href="https://github.com/bingoring/personal-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bingoring&repo=personal-site&theme=default" />
  </a>
  
 </details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/bingoring?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
-
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bingoring&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
