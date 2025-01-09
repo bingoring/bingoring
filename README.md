@@ -1,6 +1,3 @@
-<p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Yeom+Yeonwoong" alt="Typing SVG" /></p>
-<div align="justify">
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/bingoring"
@@ -8,6 +5,9 @@
   height="300"
 />
 </a>
+
+<p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I'm+Yeom+Yeonwoong" alt="Typing SVG" /></p>
+<div align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/%EC%97%B0%EC%9B%85-%EC%97%BC-1597072b7/">
